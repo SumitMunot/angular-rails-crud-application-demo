@@ -1,0 +1,473 @@
+# Logfile created on 2014-01-07 10:30:25 +0530 by logger.rb/31641
+I, [2014-01-07T10:30:25.623771 #5757]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T10:30:25.624273 #5757]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T10:30:25.624697 #5757]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T10:30:25.625084 #5757]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T10:30:25.625477 #5757]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T10:30:25.625852 #5757]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T10:30:25.626229 #5757]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T10:30:25.626603 #5757]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T10:30:25.626970 #5757]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T10:30:25.627334 #5757]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T10:30:25.627706 #5757]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T10:30:25.628069 #5757]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T10:30:25.628476 #5757]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T10:30:25.628852 #5757]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T10:30:25.629212 #5757]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T10:30:25.629585 #5757]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T10:30:25.629965 #5757]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T10:30:25.630350 #5757]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T10:30:25.630771 #5757]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T10:30:25.631166 #5757]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T10:30:25.631605 #5757]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T10:30:25.632009 #5757]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T10:30:25.632407 #5757]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T10:30:25.641793 #5757]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T10:30:25.642233 #5757]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T10:30:25.642606 #5757]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T10:30:25.643009 #5757]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T10:30:25.643382 #5757]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T10:30:25.643764 #5757]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T10:30:25.644124 #5757]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T10:30:25.644474 #5757]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T10:30:25.644845 #5757]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T10:30:25.645239 #5757]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+E, [2014-01-07T10:30:32.608825 #5757] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/bin/pg_config
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/webwerks/.rvm/gems/ruby-2.0.0-p247/gems/pg-0.17.1 for inspection.
+Results logged to /home/webwerks/.rvm/gems/ruby-2.0.0-p247/extensions/x86-linux/1.9.1/pg-0.17.1/gem_make.out
+
+/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:89:in `run'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/tempfile.rb:320:in `open'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `chdir'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `block in build_extension'  \n<internal:prelude>:10:in `synchronize'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:677:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:232:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <main>'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `<main>'
+I, [2014-01-07T10:43:25.721145 #6708]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T10:43:25.727351 #6708]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T10:43:25.727772 #6708]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T10:43:25.728170 #6708]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T10:43:25.728580 #6708]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T10:43:25.728967 #6708]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T10:43:25.729358 #6708]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T10:43:25.729742 #6708]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T10:43:25.730119 #6708]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T10:43:25.730494 #6708]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T10:43:25.730905 #6708]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T10:43:25.731281 #6708]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T10:43:25.731668 #6708]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T10:43:25.732052 #6708]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T10:43:25.737742 #6708]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T10:43:25.738979 #6708]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T10:43:25.740332 #6708]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T10:43:25.740948 #6708]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T10:43:25.741513 #6708]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T10:43:25.748124 #6708]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T10:43:25.748671 #6708]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T10:43:25.751146 #6708]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T10:43:25.751890 #6708]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T10:43:25.785566 #6708]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T10:43:25.792429 #6708]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T10:43:25.792932 #6708]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T10:43:25.793372 #6708]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T10:43:25.793750 #6708]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T10:43:25.794137 #6708]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T10:43:25.794502 #6708]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T10:43:25.794873 #6708]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T10:43:25.795384 #6708]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T10:43:25.796149 #6708]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+E, [2014-01-07T10:43:26.457556 #6708] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/bin/pg_config
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/webwerks/.rvm/gems/ruby-2.0.0-p247/gems/pg-0.17.1 for inspection.
+Results logged to /home/webwerks/.rvm/gems/ruby-2.0.0-p247/extensions/x86-linux/1.9.1/pg-0.17.1/gem_make.out
+
+/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:89:in `run'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/tempfile.rb:320:in `open'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `chdir'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `block in build_extension'  \n<internal:prelude>:10:in `synchronize'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:677:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:232:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <main>'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `<main>'
+I, [2014-01-07T10:49:32.676359 #7392]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T10:49:32.677452 #7392]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T10:49:32.678217 #7392]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T10:49:32.678884 #7392]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T10:49:32.679364 #7392]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T10:49:32.679833 #7392]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T10:49:32.680297 #7392]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T10:49:32.680799 #7392]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T10:49:32.681264 #7392]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T10:49:32.681732 #7392]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T10:49:32.682194 #7392]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T10:49:32.682645 #7392]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T10:49:32.683152 #7392]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T10:49:32.683640 #7392]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T10:49:32.684137 #7392]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T10:49:32.684632 #7392]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T10:49:32.685135 #7392]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T10:49:32.685609 #7392]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T10:49:32.696120 #7392]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T10:49:32.698860 #7392]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T10:49:32.699521 #7392]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T10:49:32.700936 #7392]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T10:49:32.701711 #7392]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T10:49:32.703158 #7392]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T10:49:32.704211 #7392]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T10:49:32.705310 #7392]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T10:49:32.706017 #7392]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T10:49:32.706595 #7392]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T10:49:32.707133 #7392]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T10:49:32.707672 #7392]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T10:49:32.708171 #7392]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T10:49:32.708777 #7392]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T10:49:32.709238 #7392]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+E, [2014-01-07T10:49:32.970101 #7392] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby extconf.rb 
+checking for pg_config... yes
+Using config values from /usr/bin/pg_config
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+You need to install postgresql-server-dev-X.Y for building a server-side extension or libpq-dev for building a client-side application.
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers.  Check the mkmf.log file for more
+details.  You may need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/lib
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /home/webwerks/.rvm/gems/ruby-2.0.0-p247/gems/pg-0.17.1 for inspection.
+Results logged to /home/webwerks/.rvm/gems/ruby-2.0.0-p247/extensions/x86-linux/1.9.1/pg-0.17.1/gem_make.out
+
+/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:89:in `run'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:37:in `block in build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/tempfile.rb:320:in `open'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `chdir'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:160:in `block in build_extension'  \n<internal:prelude>:10:in `synchronize'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:159:in `build_extension'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/ext/builder.rb:195:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:677:in `build_extensions'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/site_ruby/1.9.1/rubygems/installer.rb:232:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:95:in `block in install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/rubies/ruby-1.9.3-p484/lib/ruby/1.9.1/forwardable.rb:201:in `each'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/bin/bundle:19:in `load'  \n/home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/bin/bundle:19:in `<main>'
+I, [2014-01-07T10:53:11.423456 #9207]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T10:53:11.424448 #9207]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T10:53:11.425270 #9207]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T10:53:11.425914 #9207]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T10:53:11.426743 #9207]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T10:53:11.427215 #9207]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T10:53:11.427683 #9207]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T10:53:11.428146 #9207]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T10:53:11.428619 #9207]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T10:53:11.429078 #9207]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T10:53:11.429535 #9207]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T10:53:11.430020 #9207]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T10:53:11.430499 #9207]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T10:53:11.430967 #9207]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T10:53:11.431428 #9207]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T10:53:11.431879 #9207]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T10:53:11.432384 #9207]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T10:53:11.432920 #9207]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T10:53:11.433430 #9207]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T10:53:11.434212 #9207]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T10:53:11.434712 #9207]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T10:53:11.446984 #9207]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T10:53:11.448608 #9207]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T10:53:11.449407 #9207]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T10:53:11.450530 #9207]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T10:53:11.451571 #9207]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T10:53:11.452707 #9207]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T10:53:11.453352 #9207]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T10:53:11.453900 #9207]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T10:53:11.454459 #9207]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T10:53:11.455032 #9207]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T10:53:11.455677 #9207]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T10:53:11.456170 #9207]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+I, [2014-01-07T10:53:21.729538 #9207]  INFO -- : 0:  pg (0.17.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/pg-0.17.1.gemspec
+I, [2014-01-07T10:53:21.730255 #9207]  INFO -- : 0:  tilt (1.4.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T10:53:21.730759 #9207]  INFO -- : 0:  sprockets (2.10.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T10:53:21.731260 #9207]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T10:53:21.731764 #9207]  INFO -- : 0:  rails (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T10:53:21.732252 #9207]  INFO -- : 0:  rdoc (3.12.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T10:53:21.732731 #9207]  INFO -- : 0:  sass (3.2.13) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T10:53:21.733204 #9207]  INFO -- : 0:  sass-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T10:53:21.733681 #9207]  INFO -- : 0:  sdoc (0.3.20) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T10:53:21.734163 #9207]  INFO -- : 0:  turbolinks (2.1.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T10:53:21.734644 #9207]  INFO -- : 0:  uglifier (2.4.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-07T11:21:56.334977 #10092]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T11:21:56.340248 #10092]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T11:21:56.341310 #10092]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T11:21:56.342297 #10092]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T11:21:56.342822 #10092]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T11:21:56.343557 #10092]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T11:21:56.348532 #10092]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T11:21:56.349103 #10092]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T11:21:56.349633 #10092]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T11:21:56.350141 #10092]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T11:21:56.350668 #10092]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T11:21:56.351188 #10092]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T11:21:56.351709 #10092]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T11:21:56.352206 #10092]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T11:21:56.352734 #10092]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T11:21:56.353240 #10092]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T11:21:56.355964 #10092]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T11:21:56.358878 #10092]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T11:21:56.360013 #10092]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T11:21:56.363845 #10092]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T11:21:56.364900 #10092]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T11:21:56.367139 #10092]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T11:22:00.325931 #10092]  INFO -- : 0:  bootstrap (0.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-0.0.1.gemspec
+I, [2014-01-07T11:22:00.326510 #10092]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T11:22:00.326912 #10092]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T11:22:00.327307 #10092]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T11:22:00.327699 #10092]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T11:22:00.328153 #10092]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T11:22:00.329453 #10092]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T11:22:00.329848 #10092]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T11:22:00.330232 #10092]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T11:22:00.330620 #10092]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T11:22:00.331010 #10092]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T11:22:00.331394 #10092]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+I, [2014-01-07T11:22:00.331776 #10092]  INFO -- : 0:  libv8 (3.16.14.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/libv8-3.16.14.3.gemspec
+I, [2014-01-07T11:22:00.332153 #10092]  INFO -- : 0:  pg (0.17.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/pg-0.17.1.gemspec
+I, [2014-01-07T11:22:00.333077 #10092]  INFO -- : 0:  tilt (1.4.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T11:22:00.337688 #10092]  INFO -- : 0:  sprockets (2.10.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T11:22:00.338274 #10092]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T11:22:00.339206 #10092]  INFO -- : 0:  rails (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T11:22:00.339779 #10092]  INFO -- : 0:  rdoc (3.12.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T11:22:00.340174 #10092]  INFO -- : 0:  ref (1.0.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/ref-1.0.5.gemspec
+I, [2014-01-07T11:22:00.340577 #10092]  INFO -- : 0:  sass (3.2.13) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T11:22:00.340967 #10092]  INFO -- : 0:  sass-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T11:22:00.341348 #10092]  INFO -- : 0:  sdoc (0.3.20) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T11:22:00.341735 #10092]  INFO -- : 0:  therubyracer (0.12.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/therubyracer-0.12.0.gemspec
+I, [2014-01-07T11:22:00.342122 #10092]  INFO -- : 0:  turbolinks (2.1.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T11:22:00.343202 #10092]  INFO -- : 0:  uglifier (2.4.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-07T11:23:07.518644 #10133]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T11:23:07.524352 #10133]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T11:23:07.524776 #10133]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T11:23:07.525164 #10133]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T11:23:07.525541 #10133]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T11:23:07.525918 #10133]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T11:23:07.526289 #10133]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T11:23:07.526668 #10133]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T11:23:07.527044 #10133]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T11:23:07.527413 #10133]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T11:23:07.528423 #10133]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T11:23:07.529834 #10133]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T11:23:07.530290 #10133]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T11:23:07.530705 #10133]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T11:23:07.534216 #10133]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T11:23:07.534648 #10133]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T11:23:07.535075 #10133]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T11:23:07.535493 #10133]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T11:23:07.535911 #10133]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T11:23:07.536319 #10133]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T11:23:07.536743 #10133]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T11:23:07.537156 #10133]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T11:23:07.539943 #10133]  INFO -- : 0:  bootstrap (0.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-0.0.1.gemspec
+I, [2014-01-07T11:23:07.540362 #10133]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T11:23:07.540806 #10133]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T11:23:07.541214 #10133]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T11:23:07.541616 #10133]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T11:23:07.542021 #10133]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T11:23:07.544589 #10133]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T11:23:07.545796 #10133]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T11:23:07.546455 #10133]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T11:23:07.548967 #10133]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T11:23:07.549491 #10133]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+I, [2014-01-07T11:23:07.549969 #10133]  INFO -- : 0:  libv8 (3.16.14.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/libv8-3.16.14.3.gemspec
+I, [2014-01-07T11:23:07.550470 #10133]  INFO -- : 0:  pg (0.17.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/pg-0.17.1.gemspec
+I, [2014-01-07T11:23:07.552441 #10133]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T11:23:07.552876 #10133]  INFO -- : 0:  tilt (1.4.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T11:23:07.553285 #10133]  INFO -- : 0:  sprockets (2.10.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T11:23:07.553686 #10133]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T11:23:07.555168 #10133]  INFO -- : 0:  rails (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T11:23:07.555572 #10133]  INFO -- : 0:  rdoc (3.12.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T11:23:07.555983 #10133]  INFO -- : 0:  ref (1.0.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/ref-1.0.5.gemspec
+I, [2014-01-07T11:23:07.560229 #10133]  INFO -- : 0:  sass (3.2.13) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T11:23:07.560672 #10133]  INFO -- : 0:  sass-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T11:23:07.561080 #10133]  INFO -- : 0:  sdoc (0.3.20) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T11:23:07.561480 #10133]  INFO -- : 0:  therubyracer (0.12.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/therubyracer-0.12.0.gemspec
+I, [2014-01-07T11:23:07.561883 #10133]  INFO -- : 0:  turbolinks (2.1.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T11:23:07.563262 #10133]  INFO -- : 0:  uglifier (2.4.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-07T11:51:27.282675 #10544]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T11:51:27.286431 #10544]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T11:51:27.286933 #10544]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T11:51:27.287422 #10544]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T11:51:27.288036 #10544]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T11:51:27.291651 #10544]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T11:51:27.292315 #10544]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T11:51:27.294842 #10544]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T11:51:27.295617 #10544]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T11:51:27.297112 #10544]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T11:51:27.300752 #10544]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T11:51:27.301645 #10544]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T11:51:27.303042 #10544]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T11:51:27.304448 #10544]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T11:51:27.304936 #10544]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T11:51:27.306600 #10544]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T11:51:27.307093 #10544]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T11:51:27.307601 #10544]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T11:51:27.309334 #10544]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T11:51:27.311752 #10544]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T11:51:27.312258 #10544]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T11:51:27.313584 #10544]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T11:51:27.314070 #10544]  INFO -- : 0:  bootstrap (0.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-0.0.1.gemspec
+I, [2014-01-07T11:51:27.316446 #10544]  INFO -- : 0:  sass (3.2.13) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T11:51:32.801767 #10544]  INFO -- : 0:  bootstrap-sass (2.3.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-sass-2.3.1.3.gemspec
+I, [2014-01-07T11:51:32.802473 #10544]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T11:51:32.803014 #10544]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T11:51:32.803523 #10544]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T11:51:32.804013 #10544]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T11:51:32.804508 #10544]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T11:51:32.804993 #10544]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T11:51:32.805476 #10544]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T11:51:32.805984 #10544]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T11:51:32.806467 #10544]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T11:51:32.806952 #10544]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T11:51:32.807431 #10544]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+I, [2014-01-07T11:51:32.807910 #10544]  INFO -- : 0:  libv8 (3.16.14.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/libv8-3.16.14.3.gemspec
+I, [2014-01-07T11:51:32.809376 #10544]  INFO -- : 0:  pg (0.17.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/pg-0.17.1.gemspec
+I, [2014-01-07T11:51:32.814601 #10544]  INFO -- : 0:  tilt (1.4.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T11:51:32.815183 #10544]  INFO -- : 0:  sprockets (2.10.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T11:51:32.815697 #10544]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T11:51:32.816192 #10544]  INFO -- : 0:  rails (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T11:51:32.816690 #10544]  INFO -- : 0:  rdoc (3.12.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T11:51:32.817172 #10544]  INFO -- : 0:  ref (1.0.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/ref-1.0.5.gemspec
+I, [2014-01-07T11:51:32.818548 #10544]  INFO -- : 0:  sass-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T11:51:32.823399 #10544]  INFO -- : 0:  sdoc (0.3.20) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T11:51:32.823914 #10544]  INFO -- : 0:  therubyracer (0.12.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/therubyracer-0.12.0.gemspec
+I, [2014-01-07T11:51:32.824432 #10544]  INFO -- : 0:  turbolinks (2.1.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T11:51:32.824921 #10544]  INFO -- : 0:  uglifier (2.4.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/uglifier-2.4.0.gemspec
+I, [2014-01-07T11:53:15.999889 #10597]  INFO -- : 0:  rake (10.1.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rake-10.1.1.gemspec
+I, [2014-01-07T11:53:16.000616 #10597]  INFO -- : 0:  i18n (0.6.9) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/i18n-0.6.9.gemspec
+I, [2014-01-07T11:53:16.001131 #10597]  INFO -- : 0:  minitest (4.7.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/minitest-4.7.5.gemspec
+I, [2014-01-07T11:53:16.001627 #10597]  INFO -- : 0:  multi_json (1.8.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/multi_json-1.8.2.gemspec
+I, [2014-01-07T11:53:16.002118 #10597]  INFO -- : 0:  atomic (1.1.14) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/atomic-1.1.14.gemspec
+I, [2014-01-07T11:53:16.008712 #10597]  INFO -- : 0:  thread_safe (0.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thread_safe-0.1.3.gemspec
+I, [2014-01-07T11:53:16.009285 #10597]  INFO -- : 0:  tzinfo (0.3.38) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tzinfo-0.3.38.gemspec
+I, [2014-01-07T11:53:16.010405 #10597]  INFO -- : 0:  activesupport (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activesupport-4.0.2.gemspec
+I, [2014-01-07T11:53:16.011147 #10597]  INFO -- : 0:  builder (3.1.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/builder-3.1.4.gemspec
+I, [2014-01-07T11:53:16.011634 #10597]  INFO -- : 0:  erubis (2.7.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/erubis-2.7.0.gemspec
+I, [2014-01-07T11:53:16.012123 #10597]  INFO -- : 0:  rack (1.5.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-1.5.2.gemspec
+I, [2014-01-07T11:53:16.012625 #10597]  INFO -- : 0:  rack-test (0.6.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rack-test-0.6.2.gemspec
+I, [2014-01-07T11:53:16.013111 #10597]  INFO -- : 0:  actionpack (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionpack-4.0.2.gemspec
+I, [2014-01-07T11:53:16.013589 #10597]  INFO -- : 0:  mime-types (1.25.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mime-types-1.25.1.gemspec
+I, [2014-01-07T11:53:16.014065 #10597]  INFO -- : 0:  polyglot (0.3.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/polyglot-0.3.3.gemspec
+I, [2014-01-07T11:53:16.014539 #10597]  INFO -- : 0:  treetop (1.4.15) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/treetop-1.4.15.gemspec
+I, [2014-01-07T11:53:16.015013 #10597]  INFO -- : 0:  mail (2.5.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/mail-2.5.4.gemspec
+I, [2014-01-07T11:53:16.015493 #10597]  INFO -- : 0:  actionmailer (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/actionmailer-4.0.2.gemspec
+I, [2014-01-07T11:53:16.020742 #10597]  INFO -- : 0:  activemodel (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activemodel-4.0.2.gemspec
+I, [2014-01-07T11:53:16.021238 #10597]  INFO -- : 0:  activerecord-deprecated_finders (1.0.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-deprecated_finders-1.0.3.gemspec
+I, [2014-01-07T11:53:16.021720 #10597]  INFO -- : 0:  arel (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/arel-4.0.1.gemspec
+I, [2014-01-07T11:53:16.034542 #10597]  INFO -- : 0:  activerecord (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/activerecord-4.0.2.gemspec
+I, [2014-01-07T11:53:16.034995 #10597]  INFO -- : 0:  bootstrap (0.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-0.0.1.gemspec
+I, [2014-01-07T11:53:16.035381 #10597]  INFO -- : 0:  sass (3.2.13) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-3.2.13.gemspec
+I, [2014-01-07T11:53:16.035745 #10597]  INFO -- : 0:  bootstrap-sass (2.3.1.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/bootstrap-sass-2.3.1.3.gemspec
+I, [2014-01-07T11:53:16.036108 #10597]  INFO -- : 0:  coffee-script-source (1.6.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-source-1.6.3.gemspec
+I, [2014-01-07T11:53:16.036490 #10597]  INFO -- : 0:  execjs (2.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/execjs-2.0.2.gemspec
+I, [2014-01-07T11:53:16.038866 #10597]  INFO -- : 0:  coffee-script (2.2.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-script-2.2.0.gemspec
+I, [2014-01-07T11:53:16.039365 #10597]  INFO -- : 0:  thor (0.18.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/thor-0.18.1.gemspec
+I, [2014-01-07T11:53:16.048482 #10597]  INFO -- : 0:  railties (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/railties-4.0.2.gemspec
+I, [2014-01-07T11:53:16.052416 #10597]  INFO -- : 0:  coffee-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/coffee-rails-4.0.1.gemspec
+I, [2014-01-07T11:53:16.056276 #10597]  INFO -- : 0:  hike (1.2.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/hike-1.2.3.gemspec
+I, [2014-01-07T11:53:16.056913 #10597]  INFO -- : 0:  jbuilder (1.5.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jbuilder-1.5.3.gemspec
+I, [2014-01-07T11:53:16.059587 #10597]  INFO -- : 0:  jquery-rails (3.0.4) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/jquery-rails-3.0.4.gemspec
+I, [2014-01-07T11:53:16.065920 #10597]  INFO -- : 0:  json (1.8.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/json-1.8.1.gemspec
+I, [2014-01-07T11:53:16.082170 #10597]  INFO -- : 0:  libv8 (3.16.14.3) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/libv8-3.16.14.3.gemspec
+I, [2014-01-07T11:53:16.082714 #10597]  INFO -- : 0:  pg (0.17.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/pg-0.17.1.gemspec
+I, [2014-01-07T11:53:16.083076 #10597]  INFO -- : 0:  bundler (1.5.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-07T11:53:16.083437 #10597]  INFO -- : 0:  tilt (1.4.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/tilt-1.4.1.gemspec
+I, [2014-01-07T11:53:16.083801 #10597]  INFO -- : 0:  sprockets (2.10.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-2.10.1.gemspec
+I, [2014-01-07T11:53:16.084302 #10597]  INFO -- : 0:  sprockets-rails (2.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sprockets-rails-2.0.1.gemspec
+I, [2014-01-07T11:53:16.084799 #10597]  INFO -- : 0:  rails (4.0.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rails-4.0.2.gemspec
+I, [2014-01-07T11:53:16.086411 #10597]  INFO -- : 0:  rdoc (3.12.2) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/rdoc-3.12.2.gemspec
+I, [2014-01-07T11:53:16.086989 #10597]  INFO -- : 0:  ref (1.0.5) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/ref-1.0.5.gemspec
+I, [2014-01-07T11:53:16.088168 #10597]  INFO -- : 0:  sass-rails (4.0.1) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sass-rails-4.0.1.gemspec
+I, [2014-01-07T11:53:16.088980 #10597]  INFO -- : 0:  sdoc (0.3.20) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/sdoc-0.3.20.gemspec
+I, [2014-01-07T11:53:16.089730 #10597]  INFO -- : 0:  therubyracer (0.12.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/therubyracer-0.12.0.gemspec
+I, [2014-01-07T11:53:16.091517 #10597]  INFO -- : 0:  turbolinks (2.1.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/turbolinks-2.1.0.gemspec
+I, [2014-01-07T11:53:16.092065 #10597]  INFO -- : 0:  uglifier (2.4.0) from /home/webwerks/.rvm/gems/ruby-2.0.0-p247/specifications/uglifier-2.4.0.gemspec
